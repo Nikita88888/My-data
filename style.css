@@ -1,0 +1,13 @@
+body{
+    background-color: white;
+}
+
+#output {
+    background-color: rgb(58, 58, 58);
+    color: white;
+    text-indent: 1rem;
+}
+
+#dark_mode_btn {
+    margin-right: 2%;
+}
