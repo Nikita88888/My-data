@@ -1,0 +1,70 @@
+body {
+    background-color: rgb(88, 88, 88);
+}
+
+#output {
+    background-color: rgb(105, 105, 105);
+    color: white;
+    text-indent: 1rem;
+}
+
+#clear_btn {
+    color: white;
+    background-color: rgba(255, 255, 255, 0);
+}
+
+#text_console {
+    color: white;
+}
+
+#submit_btn {
+    color: white;
+    background-color: rgba(255, 255, 255, 0);
+}
+
+#text_your_email {
+    color: white;
+}
+
+#email {
+    background-color: rgba(255, 255, 255, 0);
+    color: white;
+}
+
+#text_your_birthday {
+    color: white;
+}
+
+#birthday {
+    background-color: rgba(255, 255, 255, 0);
+    color: white;
+}
+
+#text_your_surname {
+    color: white;
+}
+
+#surname {
+    background-color: rgba(255, 255, 255, 0);
+    color: white;
+}
+
+#text_your_name {
+    color: white;
+}
+
+#name {
+    background-color: rgba(255, 255, 255, 0);
+    color: white;
+}
+
+#dark_mode_btn {
+    background-color: rgba(255, 255, 255, 0);
+    color: white;
+    margin-right: 2%;
+}
+
+#white_mode_btn {
+    background-color: rgba(255, 255, 255, 0);
+    color: white;
+}
